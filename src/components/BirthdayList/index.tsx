@@ -8,7 +8,7 @@ interface BirthdayListProps {
   selectedEmployees: IEmployee[];
 }
 
-interface ListItemsProps {
+interface BirthdayItemsListProps {
   month: string;
   employees: IEmployee[];
 }
@@ -17,7 +17,7 @@ interface MonthsListProps {
   employees: IEmployee[];
 }
 
-const ListItems: FC<ListItemsProps> = ({month, employees}) => {
+const BirthdayItemsList: FC<BirthdayItemsListProps> = ({month, employees}) => {
   const sortedEmployeesByLastName = employees.sort((a, b) =>
     a.lastName.localeCompare(b.lastName));
 
@@ -41,7 +41,7 @@ const MonthsList: FC<MonthsListProps> = ({employees}) => {
   return (
     <>
       {monthsArr.map((month, index) => (
-        <ListItems
+        <BirthdayItemsList
           key={index}
           month={month}
           employees={employees.filter(
