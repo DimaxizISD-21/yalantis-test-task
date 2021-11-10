@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/main.8bd92f13.chunk.js",
-    "main.js.map": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/main.8bd92f13.chunk.js.map",
-    "runtime-main.js": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/runtime-main.3c611f1c.js",
-    "runtime-main.js.map": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/runtime-main.3c611f1c.js.map",
-    "static/js/2.d8fe2eab.chunk.js": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/2.d8fe2eab.chunk.js",
-    "static/js/2.d8fe2eab.chunk.js.map": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/2.d8fe2eab.chunk.js.map",
-    "index.html": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/index.html",
-    "static/js/2.d8fe2eab.chunk.js.LICENSE.txt": "/DimaxizISD-21/DimaxizISD-21.github.io/yalantis-test-task/employees/static/js/2.d8fe2eab.chunk.js.LICENSE.txt"
+    "main.js": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/main.8bd92f13.chunk.js",
+    "main.js.map": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/main.8bd92f13.chunk.js.map",
+    "runtime-main.js": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/runtime-main.f3851222.js",
+    "runtime-main.js.map": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/runtime-main.f3851222.js.map",
+    "static/js/2.8852af66.chunk.js": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/2.8852af66.chunk.js",
+    "static/js/2.8852af66.chunk.js.map": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/2.8852af66.chunk.js.map",
+    "index.html": "/DimaxizISD-21.github.io/yalantis-test-task/index.html",
+    "static/js/2.8852af66.chunk.js.LICENSE.txt": "/DimaxizISD-21.github.io/yalantis-test-task/static/js/2.8852af66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c611f1c.js",
-    "static/js/2.d8fe2eab.chunk.js",
+    "static/js/runtime-main.f3851222.js",
+    "static/js/2.8852af66.chunk.js",
     "static/js/main.8bd92f13.chunk.js"
   ]
 }
