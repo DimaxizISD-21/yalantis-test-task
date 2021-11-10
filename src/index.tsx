@@ -1,24 +1,13 @@
 import { render } from "react-dom";
 import { Provider } from "react-redux";
-import {
-  BrowserRouter as Router,
-  Redirect,
-  Route,
-  Switch
-} from "react-router-dom";
-import Employees from "./pages/Employees";
 import { store } from "./store";
 import { GlobalStyle } from "./styles";
+import Employees from "./pages/Employees";
 
 render(
-  <Router>
-    <Provider store={store}>
-      <GlobalStyle />
-      <Switch>
-        <Route path={"/employees"} component={Employees} />
-        <Redirect to="/employees" />
-      </Switch>
-    </Provider>
-  </Router>,
+  <Provider store={store}>
+    <GlobalStyle />
+    <Employees />
+  </Provider>,
   document.getElementById("root")
 );
