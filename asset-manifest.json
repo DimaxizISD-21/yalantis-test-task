@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/DimaxizISD-21.github.io/static/js/main.8bd92f13.chunk.js",
-    "main.js.map": "/DimaxizISD-21.github.io/static/js/main.8bd92f13.chunk.js.map",
-    "runtime-main.js": "/DimaxizISD-21.github.io/static/js/runtime-main.fcaa66b9.js",
-    "runtime-main.js.map": "/DimaxizISD-21.github.io/static/js/runtime-main.fcaa66b9.js.map",
-    "static/js/2.7ec333f3.chunk.js": "/DimaxizISD-21.github.io/static/js/2.7ec333f3.chunk.js",
-    "static/js/2.7ec333f3.chunk.js.map": "/DimaxizISD-21.github.io/static/js/2.7ec333f3.chunk.js.map",
-    "index.html": "/DimaxizISD-21.github.io/index.html",
-    "static/js/2.7ec333f3.chunk.js.LICENSE.txt": "/DimaxizISD-21.github.io/static/js/2.7ec333f3.chunk.js.LICENSE.txt"
+    "main.js": "/yalantis-test-task/static/js/main.8bd92f13.chunk.js",
+    "main.js.map": "/yalantis-test-task/static/js/main.8bd92f13.chunk.js.map",
+    "runtime-main.js": "/yalantis-test-task/static/js/runtime-main.8eedda2e.js",
+    "runtime-main.js.map": "/yalantis-test-task/static/js/runtime-main.8eedda2e.js.map",
+    "static/js/2.a6df4cc8.chunk.js": "/yalantis-test-task/static/js/2.a6df4cc8.chunk.js",
+    "static/js/2.a6df4cc8.chunk.js.map": "/yalantis-test-task/static/js/2.a6df4cc8.chunk.js.map",
+    "index.html": "/yalantis-test-task/index.html",
+    "static/js/2.a6df4cc8.chunk.js.LICENSE.txt": "/yalantis-test-task/static/js/2.a6df4cc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcaa66b9.js",
-    "static/js/2.7ec333f3.chunk.js",
+    "static/js/runtime-main.8eedda2e.js",
+    "static/js/2.a6df4cc8.chunk.js",
     "static/js/main.8bd92f13.chunk.js"
   ]
 }
